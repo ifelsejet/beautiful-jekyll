@@ -73,7 +73,7 @@ social-network-links:
   github: ifelsejet
   #twitter: daattali
 #  reddit: yourname
-  linkedin: ifelsejet
+  linkedin: jatnael-montes
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -248,6 +248,3 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
